@@ -96,3 +96,6 @@ p::selection, input::selection, h1::selection ,h2::selection, h3::selection, lab
   color: var(--light-gray);
   background-color: var(--orange);
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
