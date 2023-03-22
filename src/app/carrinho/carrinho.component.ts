@@ -45,5 +45,11 @@ export class CarrinhoComponent implements OnInit {
 
   }
 
+  limparCarrinho(){
+    this.carrinhoService.limparCarrinho();
+    this.route.navigate(["produtos"]);
+
+  }
+
 
 }
