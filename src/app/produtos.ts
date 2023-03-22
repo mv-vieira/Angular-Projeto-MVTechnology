@@ -19,7 +19,7 @@ export const produtos: IProduto[] = [
   { id: 5, descricao: "Fone de ouvido JBL", preco: 299.99, descricaoPreco: "À vista no PIX", imagem: "/assets/fone-de-ouvido-1.jpg", quantidadeEstoque: 74 },
   { id: 6, descricao: "Fone de ouvido Kraken", preco: 399.99, descricaoPreco: "À vista no PIX", imagem: "/assets/fone-de-ouvido-3.jpg", quantidadeEstoque: 34 },
   { id: 7, descricao: "HD 1TB", preco: 499.99, descricaoPreco: "À vista no PIX", imagem: "/assets/hd.jpg", quantidadeEstoque: 30 },
-  { id: 8, descricao: "Combo de placa de vídeos", preco: 18449.99, descricaoPreco: "À vista no PIX", imagem: "/assets/placa-video.jpg", quantidadeEstoque: 47 },
+  { id: 8, descricao: "Placas de vídeos", preco: 18449.99, descricaoPreco: "À vista no PIX", imagem: "/assets/placa-video.jpg", quantidadeEstoque: 47 },
   { id: 9, descricao: "Processador Ryzen", preco: 1000, descricaoPreco: "À vista no PIX", imagem: "/assets/processador.jpg", quantidadeEstoque: 12 },
   { id: 10, descricao: "Notebook Dell", preco: 2500, descricaoPreco: "À vista no PIX", imagem: "/assets/laptop-1.jpg", quantidadeEstoque: 18 },
   { id: 11, descricao: "Notebook Asus", preco: 4500, descricaoPreco: "À vista no PIX", imagem: "/assets/laptop-2.jpg", quantidadeEstoque: 14 },

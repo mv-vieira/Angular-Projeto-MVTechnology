@@ -1,8 +1,10 @@
-import { NotificacaoService } from './../notificacao.service';
-import { Router } from '@angular/router';
-import { IProdutoCarrinho } from 'src/app/produtos';
-import { CarrinhoService } from './../carrinho.service';
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+
+import { IProdutoCarrinho } from 'src/app/produtos';
+
+import { CarrinhoService } from './../carrinho.service';
+import { NotificacaoService } from './../notificacao.service';
 
 @Component({
   selector: 'app-carrinho',
